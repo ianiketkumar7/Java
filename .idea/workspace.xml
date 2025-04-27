@@ -4,12 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e32e42d-8097-429f-b2bb-2a5f68188486" name="Changes" comment="" />
+    <list default="true" id="0e32e42d-8097-429f-b2bb-2a5f68188486" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvenOrOddNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvenOrOddNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IncomeTaxCalc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IncomeTaxCalc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LargOf3Num.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LargOf3Num.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LargestOfTwoNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LargestOfTwoNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PassOrFailForStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PassOrFailForStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/area_of_square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/area_of_square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avgof3numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/avgof3numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bill_of_coustumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bill_of_coustumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/largest_datatype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/largest_datatype.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ianiketkumar7&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ianiketkumar7/Java.git&quot;,
+    &quot;accountId&quot;: &quot;49a8c8d6-6bde-4f51-ac35-1475cd5dbdf6&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
@@ -25,9 +63,12 @@
   &quot;keyToString&quot;: {
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Volumes/T7/DSA with Java/Java Codes/Java&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Volumes/T7/DSA with Java/Java Codes/Java/src/Main.java&quot;
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Volumes/T7/DSA with Java/Java Codes/Java/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
